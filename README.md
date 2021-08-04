@@ -1,16 +1,31 @@
-### Hi there 👋
+### 🤗JunCheol Kim
+Hi there, this is JunCheol! I'm enjoying learning about AI and data analysis.  
+Also, I'm interested in studying DL Modeling for services.  
 
-<!--
-**ahaampo5/ahaampo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👀Contact
+- Email. ahaampo5@gmail.com
 
-Here are some ideas to get you started:
+### 🤖Skills
+* ML/DL: PyTorch
+* Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
+* Language/Tool: Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❤Interests
+* Computer Vision - Optical Character Recognition, Image Generation
+
+
+### 🏃‍♀️History
+
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **External Activity** | 2021.8~  | [Year Dream Project](http://yeardream.kr/) | **[중소벤처기업진흥공단](http://kosmes.or.kr/)** |
+| **External Activity** | 2021.1~6 | [Boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
+
+
+### 🤡Activities
+| **Type** | **Date** | **Title** |**Contents** | **Host** |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| **Competition** | 2021.7~ | [DACON Camera Image Quality Improvement](https://dacon.io/competitions/official/235746/overview/description) | Ongoing😎 | **LG AI Research** |
+| **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
+| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Detection](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 participants | **NAVER CONNECT** |
+| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Segmentation](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 participants | **NAVER CONNECT** |
