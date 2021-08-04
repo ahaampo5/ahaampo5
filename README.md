@@ -7,7 +7,7 @@ Also, I'm interested in studying DL Modeling for services.
 
 ### 🤖Skills
 * ML/DL: PyTorch
-* Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
+* Data Analysis: Pandas, NumPy, MatplotLib, Seaborn
 * Language/Tool: Python
 
 ### ❤Interests
