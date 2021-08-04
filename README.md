@@ -26,6 +26,9 @@ Also, I'm interested in studying DL Modeling for services.
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Competition** | 2021.7~ | [DACON Camera Image Quality Improvement](https://dacon.io/competitions/official/235746/overview/description) | Ongoing😎 | **LG AI Research** |
-| **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) /  1st out of 12 Teams | **NAVER CONNECT** |
-| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Detection](https://github.com/iloveslowfood/p1-img-iloveslowfood) /  1st out of 24 Teams | **NAVER CONNECT** |
-| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Segmentation](https://github.com/iloveslowfood/p1-img-iloveslowfood) /  2nd out of 24 Teams | **NAVER CONNECT** |
+| **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) /  
+1st out of 12 Teams | **NAVER CONNECT** |
+| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Detection](https://github.com/iloveslowfood/p1-img-iloveslowfood) /  
+1st out of 24 Teams | **NAVER CONNECT** |
+| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Segmentation](https://github.com/iloveslowfood/p1-img-iloveslowfood) /  
+2nd out of 24 Teams | **NAVER CONNECT** |
