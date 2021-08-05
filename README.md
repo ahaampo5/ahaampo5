@@ -1,6 +1,6 @@
 ### 🤗JunCheol Kim
-Hi there, this is JunCheol! I'm enjoying learning about AI and data analysis.  
-Also, I'm interested in studying DL Modeling for services.  
+Hi there, this is JunCheol Kim! I'm enjoying learning about AI and data analysis.  
+Also, I'm interested in DL Modeling for services.  
 
 ### 👀Contact
 - Email. ahaampo5@gmail.com
