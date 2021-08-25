@@ -8,7 +8,7 @@ Also, I'm interested in DL Modeling for services.
 ### 🤖Skills
 * ML/DL: PyTorch
 * Data Analysis: Pandas, NumPy, MatplotLib, Seaborn
-* Language/Tool: Python, html/css, javascript
+* Language/Tool: Python, HTML/CSS, Javascript
 
 ### ❤Interests
 * Computer Vision - Optical Character Recognition, Image Generation
