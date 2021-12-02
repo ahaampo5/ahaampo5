@@ -11,7 +11,8 @@ Also, I'm interested in DL Modeling for services.
 * Language/Tool: Python, HTML/CSS, Javascript
 
 ### ❤Interests
-* Computer Vision - Optical Character Recognition, Image Generation
+* Computer Vision
+  - Object Detection, Optical Character Recognition, Image Generation
 
 
 ### 🏃‍♀️History
