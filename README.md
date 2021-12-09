@@ -6,9 +6,9 @@ Also, I'm interested in DL Modeling for services.
 - Email. ahaampo5@gmail.com
 
 ### 🤖Skills
-* ML/DL: PyTorch
-* Data Analysis: Pandas, NumPy, MatplotLib, Seaborn
-* Language/Tool: Python, HTML/CSS, Javascript
+* ML/DL: PyTorch, sklearn
+* Data Analysis: Pandas, MatplotLib, Seaborn
+* Language/Tool: Python, Pytorch
 
 ### ❤Interests
 * Computer Vision
@@ -26,6 +26,7 @@ Also, I'm interested in DL Modeling for services.
 ### 🤡Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
+| **Competition** | 2021.12 | [NSML Small Object Detection](https://github.com/DatathonInfo/SOChallenge) | [Small Object Detection](https://github.com/DatathonInfo/SOChallenge) / 1rd out of 20 Teams | **과학기술정보통신부** |
 | **Competition** | 2021.7~8 | [DACON Camera Image Quality Improvement](https://dacon.io/competitions/official/235746/overview/description) | Camera Image Enhancement(Private) / 3rd out of 228 Teams | **LG AI Research** |
 | **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
 | **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Detection](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 1st out of 24 Teams | **NAVER CONNECT** |
