@@ -1,4 +1,4 @@
-### 🤗JunCheol Kim
+### 🤗JunCheol Kim - White Note
 Hi there, this is JunCheol Kim! I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.  
 
