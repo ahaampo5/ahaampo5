@@ -12,7 +12,9 @@ Also, I'm interested in DL Modeling for services.
 
 ### ❤Interests
 * Computer Vision
-  - Object Detection, Optical Character Recognition, Image Generation
+  - Object Detection
+  - Optical Character Recognition
+  - Image Generation
 
 
 ### 🏃‍♀️History
