@@ -6,15 +6,15 @@ Also, I'm interested in DL Modeling for services.
 - Email. ahaampo5@gmail.com
 
 ### 🤖Skills
-* ML/DL: PyTorch, sklearn
-* Data Analysis: Pandas, MatplotLib, Seaborn
-* Language/Tool: Python
+* ML/DL: PyTorch, sklearn, MMDet, Yolo, tensorflow
+* Data Analysis: Numpy, Pandas, MatplotLib, Seaborn
+* Language/Tool: Python, Flask
 
 ### ❤Interests
 * Computer Vision
   - Object Detection
   - Optical Character Recognition
-  - Image Generation
+  - Metric Learning
 
 
 ### 🏃‍♀️History
