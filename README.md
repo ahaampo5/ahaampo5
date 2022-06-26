@@ -29,7 +29,7 @@ Also, I'm interested in DL Modeling for services.
 ### 🤡Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Competition** | 2022.5~7 | [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 3D Sementic Segmentation / 은메달 50th out of 1367 teams | **Kaggle** |
+| **Competition** | 2022.5~7 | [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 3D Semantic Segmentation / 은메달 50th out of 1367 teams | **Kaggle** |
 | **Competition** | 2022.2~4 | [Happy Whale](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Classification - Metric Learning / 은메달 47th out of 1499 teams | **Kaggle** |
 | **Competition** | 2021.12 | [옛한글 OCR AI](http://hackathon-oldkorean.com/) | [OCR(Text Localization/Text Recognition)-Ancient Korean](https://github.com/ahaampo5/OCR_ancient_korean) / 대상 | **과학기술정보통신부** |
 | **Competition** | 2021.12 | [NSML Small Object Detection](https://github.com/DatathonInfo/SOChallenge) | [Small Object Detection](https://github.com/DatathonInfo/SOChallenge) / 1rd out of 20 Teams | **과학기술정보통신부** |
