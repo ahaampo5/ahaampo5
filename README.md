@@ -7,7 +7,7 @@ Also, I'm interested in DL Modeling for services.
 
 ### 🤖Skills
 * ML/DL: PyTorch, sklearn, MMDet, Yolo, tensorflow
-* Data Analysis: Numpy, Pandas, MatplotLib, Seaborn
+* Data Analysis: Numpy, Pandas, MatplotLib, Seaborn, Spark
 * Language/Tool: Python, Flask
 
 ### ❤Interests
@@ -15,7 +15,9 @@ Also, I'm interested in DL Modeling for services.
   - Object Detection
   - Optical Character Recognition
   - Metric Learning
-
+* NLP
+  - Passage Embedding
+  - Text/Table QA
 
 ### 🏃‍♀️History
 
