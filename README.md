@@ -1,4 +1,4 @@
-### 🤗JunCheol Kim - Jerry
+### 🤗Jerry Kim (김준철)
 Hi there, this is JunCheol Kim! I'm enjoying learning about AI and data analysis.  
 Also, I'm interested in DL Modeling for services.  
 
@@ -6,7 +6,7 @@ Also, I'm interested in DL Modeling for services.
 - Email. ahaampo5@gmail.com
 
 ### 🤖Skills
-* ML/DL: PyTorch, sklearn, MMDet, Yolo, tensorflow
+* ML/DL: PyTorch, Transformers, sklearn
 * Data Analysis: Numpy, Pandas, MatplotLib, Seaborn, Spark
 * Language/Tool: Python, Flask
 
@@ -18,6 +18,7 @@ Also, I'm interested in DL Modeling for services.
 * NLP
   - Passage Embedding
   - Text/Table QA
+  - LLM based TODS (Task-Oriented Dialogue System)
 
 ### 🏃‍♀️History
 
@@ -28,7 +29,7 @@ Also, I'm interested in DL Modeling for services.
 | **External Activity** | 2021.1~6 | [Boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
 
 
-### 🤡Activities
+### 🤡Competitions
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Competition** | 2022.5~7 | [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 3D Semantic Segmentation / 은메달 50th out of 1367 teams | **Kaggle** |
