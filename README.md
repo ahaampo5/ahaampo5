@@ -1,32 +1,47 @@
-### 🤗Jerry Kim (김준철)
+### 🤗 Jerry Kim (김준철)
 Hi there, this is JunCheol Kim! I'm enjoying learning about AI and data analysis.  
-Also, I'm interested in DL Modeling for services.  
+Also, I'm interested in building services using AI system.
+I am familiar with defining and solving problems in NLP, CV, and ML.
 
-### 👀Contact
-- Email. ahaampo5@gmail.com
+### 👀 Contact
+- Email: ahaampo5@gmail.com
+- [Notion Link](https://hungry-eclipse-86f.notion.site/Jerry-Kim-4732d44c49964700aa90d699c6897cda)
 
-### 🤖Skills
-* ML/DL: PyTorch, Transformers, sklearn
+### 🤖 Skills
+* AI
+  * Service: AI Search Engine, Chatbot, RAG
+  * Data: Jinja, DB, OpenCV
+  * Train: Deepspeed, FSDP, PyTorch, Huggingface, LoRA
+  * Serve: vLLM, Quantization(AWQ, GPTQ)
+* ML
+  * Tools: sklearn, Optuna, LGBM
 * Data Analysis: Numpy, Pandas, MatplotLib, Seaborn, Spark
-* Language/Tool: Python, Flask
+* Backend
+  * Server: Uvicorn, FastAPI
+  * DB: SQL
+  * Load testing: JMeter
+* Language/Tool: Python, FastAPI
 
-### ❤Interests
+### ❤ Interests
 * Computer Vision
   - Object Detection
-  - Optical Character Recognition
-  - Metric Learning
+  - Optical Character Recognition (OCR)
+  - Segmentation
+
 * NLP
-  - Passage Embedding
+  - Vector Search
   - Text/Table QA
-  - LLM based TODS (Task-Oriented Dialogue System)
+  - LLM based Chatbot (TODS)
+  - RAG
+  - Agent
 
 ### 🏃‍♀️History
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **External Activity** | 2021.7~  | [딥러닝 논문 읽기 모임](https://www.youtube.com/c/%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) | **YouTube "딥러닝논문읽기모임"** |
-| **External Activity** | 2021.8~4 | [Year Dream Project](http://yeardream.kr/) | **[중소벤처기업진흥공단](http://kosmes.or.kr/)** |
-| **External Activity** | 2021.1~6 | [Boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
+| **External Activity** | 2021.7~2023.12  | [딥러닝 논문 읽기 모임](https://www.youtube.com/c/%EB%94%A5%EB%9F%AC%EB%8B%9D%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0%EB%AA%A8%EC%9E%84) | **YouTube "딥러닝논문읽기모임"** |
+| **External Activity** | 2021.8~2022.4 | [Year Dream Project](http://yeardream.kr/) | **[중소벤처기업진흥공단](http://kosmes.or.kr/)** |
+| **External Activity** | 2021.1~2021.6 | [Boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
 
 
 ### 🤡Competitions
