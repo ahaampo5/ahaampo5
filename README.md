@@ -1,6 +1,6 @@
 ### 🤗 Jerry Kim (김준철)
 Hi there, this is JunCheol Kim! I'm enjoying learning about AI and data analysis.  
-Also, I'm interested in building services using AI system.
+Also, I'm interested in building AI services.
 I am familiar with defining and solving problems in NLP, CV, and ML.
 
 ### 👀 Contact
@@ -15,12 +15,17 @@ I am familiar with defining and solving problems in NLP, CV, and ML.
   * Serve: vLLM, Quantization(AWQ, GPTQ)
 * ML
   * Tools: sklearn, Optuna, LGBM
-* Data Analysis: Numpy, Pandas, MatplotLib, Seaborn, Spark
+  * Data Analysis: Numpy, Pandas, MatplotLib, Seaborn, Spark
 * Backend
-  * Server: Uvicorn, FastAPI
-  * DB: SQL
-  * Load testing: JMeter
-* Language/Tool: Python, FastAPI
+  * Server: gunicorn, Uvicorn, FastAPI
+  * RDB: MySQL
+  * VDB: Weaviate
+  * Load test: JMeter
+  * Infra: Docker
+* Frontend
+  * Streamlit, 
+* Language
+  * Python
 
 ### ❤ Interests
 * Computer Vision
