@@ -23,7 +23,7 @@ I am familiar with defining and solving problems in NLP, CV, and ML.
   * Load test: JMeter
   * Infra: Docker
 * Frontend
-  * Streamlit, 
+  * Streamlit
 * Language
   * Python
 
