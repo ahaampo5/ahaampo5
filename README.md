@@ -19,7 +19,6 @@
 
 <h2 id="projects"> 📂 주요 프로젝트 </h2>
 
-
 ### 1. Web Agent, Computer Use Agent R&D (4 개월, 2025.03 ~ 2025.05)  
 “설치형 통합 Agent 솔루션 개발”
 - Tools : LangGraph, MCP, Typescript, Electron
@@ -85,7 +84,7 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Competition** | 2022.5~7 | [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 3D Semantic Segmentation<br>**은메달** 50th out of 1367 teams | **Kaggle** |
 | **Competition** | 2022.2~4 | [Happy Whale](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Classification - Metric Learning <br> **은메달** 47th out of 1499 teams | **Kaggle** |
-| Competition | 2022.1~4 | [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction) | Market Prediction <br> **동메달** 177th out of 2893 teams | |
+| Competition | 2022.1~4 | [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction) | Market Prediction <br> **동메달** 177th out of 2893 teams | **Kaggle** |
 | **Competition** | 2021.12 | [옛한글 OCR AI](http://hackathon-oldkorean.com/) | [OCR(Localization,Recognition)-Ancient Korean](https://github.com/ahaampo5/OCR_ancient_korean) <br> **대상** | **과학기술정보통신부** |
 | **Competition** | 2021.12 | [NSML Small Object Detection](https://github.com/DatathonInfo/SOChallenge) | [Small Object Detection](https://github.com/DatathonInfo/SOChallenge) <br> **대상** 1rd out of 20 Teams | **과학기술정보통신부** |
 | **Competition** | 2021.7~8 | [DACON Camera Image Quality Improvement](https://dacon.io/competitions/official/235746/overview/description) | Camera Image Enhancement(Private) <br> **동메달** 3rd out of 228 Teams | **LG AI Research** |
