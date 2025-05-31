@@ -14,7 +14,7 @@
 <h2 id="introduction"> 👤 소개 </h2>
 
 안녕하세요! 저는 Kaggle Expert AI Engineer 김준철 입니다.   
-주로 Tabular, CV, NLP 서비스 개발을 위해 데이터 전처리, 학습, 평가 파이프라인 구성과 LLM, VLM, Agent 연구를 수행하고 있습니다.  
+주로 Tabular, CV, NLP 서비스 개발을 위해 데이터 전처리, 학습, 평가 파이프라인 구성과 LLM, VLM, Agent 연구를 수행합니다.  
 연구 뿐만 아니라 다수의 RAG, Chatbot, Agent 프로젝트 경험이 있으며 대고객 서비스 수준을 구현하는데 기여하고 있습니다.
 
 <h2 id="projects"> 📂 주요 프로젝트 </h2>
@@ -69,26 +69,28 @@
 <h2 id="history">🏃‍♀️ History</h2>
 
 ```
-- 2025.03 • Genon (구 MNC) • Web/Computer Use Agent R&D • LangGraph·Electron 기반 솔루션 개발
-- 2024.06 • MNC • General LLM & VLM Pipeline 구축 • 데이터·학습·평가 파이프라인 개발
-- 2023.07 • MNC • 우리은행 AI Banker 챗봇 • 데이터 관리·LLM 학습(RLHF 포함)·평가 총괄
-- 2023.03 • MNC • 한국어 금융 LLM 개발 • 7B LLM 경진대회 1위·데이터 구축, DPO·LoRA 튜닝
-- 2022.11 • MNC • Multi-Modal RAG Chatbot • 크롤링·Prompt 설계·RAG 개발 관리
-- 2022.04 • MNC • 우리은행 MyData AI 모델링 • DB 정제·ML 모델링·서비스 배포
+- 2025.03~Now     • Genon (구 MNC) • Web/Computer Use Agent R&D • LangGraph·Electron 기반 솔루션 개발
+- 2024.06~2025.01 • MNC • General LLM & VLM Pipeline 구축 • 데이터·학습·평가 파이프라인 개발
+- 2023.07~2024.06 • MNC • 우리은행 AI Banker 챗봇 • 데이터 관리·LLM 학습(RLHF 포함)·평가 총괄
+- 2023.03~2023.06 • MNC • 한국어 금융 LLM 개발 • 7B LLM 경진대회 1위·데이터 구축, DPO·LoRA 튜닝
+- 2022.11~2023.03 • MNC • Multi-Modal RAG Chatbot • 크롤링·Prompt 설계·RAG 개발 관리
+- 2022.04~2022.11 • MNC • 우리은행 MyData AI 모델링 • DB 정제·ML 모델링·서비스 배포
+- 2021.07~2022.05 • YearDream • Algorithm, ML/CV/NLP 모델링 • 
+- 2021.01~2021.06 • NAVER boostcamp • ML/CV 모델링 • Tabular/Object Detection, Segmentation, OCR
 ```
 
 <h2 id="competitions"> 🏆 Competitions </h2>
 
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Competition** | 2022.5~7 | [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 3D Semantic Segmentation / 은메달 50th out of 1367 teams | **Kaggle** |
-| **Competition** | 2022.2~4 | [Happy Whale](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Classification - Metric Learning / 은메달 47th out of 1499 teams | **Kaggle** |
-| **Competition** | 2021.12 | [옛한글 OCR AI](http://hackathon-oldkorean.com/) | [OCR(Text Localization/Text Recognition)-Ancient Korean](https://github.com/ahaampo5/OCR_ancient_korean) / 대상 | **과학기술정보통신부** |
-| **Competition** | 2021.12 | [NSML Small Object Detection](https://github.com/DatathonInfo/SOChallenge) | [Small Object Detection](https://github.com/DatathonInfo/SOChallenge) / 1rd out of 20 Teams | **과학기술정보통신부** |
-| **Competition** | 2021.7~8 | [DACON Camera Image Quality Improvement](https://dacon.io/competitions/official/235746/overview/description) | Camera Image Enhancement(Private) / 3rd out of 228 Teams | **LG AI Research** |
-| **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
-| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Detection](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 1st out of 24 Teams | **NAVER CONNECT** |
-| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Segmentation](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 2nd out of 24 Teams | **NAVER CONNECT** |
+| **Competition** | 2022.5~7 | [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 3D Semantic Segmentation<br>**은메달** 50th out of 1367 teams | **Kaggle** |
+| **Competition** | 2022.2~4 | [Happy Whale](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Classification - Metric Learning <br> **은메달** 47th out of 1499 teams | **Kaggle** |
+| Competition | 2022.1~4 | [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction) | Market Prediction <br> **동메달** 177th out of 2893 teams | |
+| **Competition** | 2021.12 | [옛한글 OCR AI](http://hackathon-oldkorean.com/) | [OCR(Localization,Recognition)-Ancient Korean](https://github.com/ahaampo5/OCR_ancient_korean) <br> **대상** | **과학기술정보통신부** |
+| **Competition** | 2021.12 | [NSML Small Object Detection](https://github.com/DatathonInfo/SOChallenge) | [Small Object Detection](https://github.com/DatathonInfo/SOChallenge) <br> **대상** 1rd out of 20 Teams | **과학기술정보통신부** |
+| **Competition** | 2021.7~8 | [DACON Camera Image Quality Improvement](https://dacon.io/competitions/official/235746/overview/description) | Camera Image Enhancement(Private) <br> **동메달** 3rd out of 228 Teams | **LG AI Research** |
+| **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) <br> 1st out of 12 Teams | **NAVER CONNECT** |
+| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Recycle Image Segmentation](https://github.com/iloveslowfood/p1-img-iloveslowfood) <br> 2nd out of 24 Teams | **NAVER CONNECT** |
 
 <h2 id="contact"> ✉️ Contact </h2>
 
