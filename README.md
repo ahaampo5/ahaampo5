@@ -1,7 +1,6 @@
-# 🚀 AI Egineer
+# 🌿 AI Engineer
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-8148fd)](https://www.kaggle.com/jcdataset)
-[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 
 ## 🔖 목차
 - [소개](#introduction)
@@ -14,8 +13,8 @@
 <h2 id="introduction"> 👤 소개 </h2>
 
 안녕하세요! 저는 Kaggle Expert AI Engineer 김준철 입니다.   
-주로 Tabular, CV, NLP 서비스 개발을 위해 데이터 전처리, 학습, 평가 파이프라인 구성과 LLM, VLM, Agent 연구를 수행합니다.  
-연구 뿐만 아니라 다수의 RAG, Chatbot, Agent 프로젝트 경험이 있으며 대고객 서비스 수준을 구현하는데 기여하고 있습니다.
+다양한 대회의 경험을 바탕으로 CV, NLP, Tabular 서비스 개발을 위한 데이터 전처리, 학습, 평가, 서빙 파이프라인 구축에 익숙하고 LLM, VLM, Agent 연구에 기여하고 있습니다.  
+또한, 다수의 RAG, Chatbot, Agent 프로젝트 경험이 있으며 솔루션이 대고객 서비스 수준을 구현하는데 기여하고 있습니다.
 
 <h2 id="projects"> 📂 주요 프로젝트 </h2>
 
@@ -23,19 +22,20 @@
 “설치형 통합 Agent 솔루션 개발”
 - Tools : LangGraph, MCP, Typescript, Electron
   * 설치형 Agent 솔루션 개발: LangGraph, Electron 기반 솔루션 개발
-  * Agent 모듈 연구: Reasoning, Memory, Workflow 연구 및 최적 조합 연구
+  * Agent Context Engineering 연구: Reasoning, Memory, Workflow 연구 및 최적 조합 연구
+  * Multi-Agent System (MAS) 실험 진행: Tree, Graph, Supervisor, Sequential 성능 비교
 
 ### 2. General LLM & VLM Pipeline 구축 (6 개월, 2024.06 ~ 2024.11)  
 “LLM, VLM 데이터, 학습, 평가 파이프라인 개발”
 - Tools : Accelerate, FSDP, Jinja2, InternVL, LLaVA
   *	데이터 파이프라인: Jinja2 Prompt 관리, 번역, 질문, 문서, 캡션 생성 파이프라인 구축
-  *	LLM, VLM 학습: 7B~70B Full, LoRA Tuning, Multi-node Training
+  *	LLM, VLM 학습: 0.6B~32B Full, LoRA Tuning, Multi-node Training 전체 관리
 
 ### 3. 우리은행 AI Banker (LLM 기반 대고객 챗봇 솔루션) (12 개월, 2023.07 ~ 2024.06)  
 “LLM 챗봇의 전체 데이터 관리, 모델 학습, 평가 총괄”
 - Tools : Deepspeed, vLLM, Rasa, JMeter
   *	데이터: 프롬프트/변수 관리, 데이터 생성 및 중복제거, Delexicalize/Lexicalize 파이프라인 구축
-  *	LLM 학습: 7B, 13B Full-Tuning, Partial Tuning(LoRA), RLHF(PPO, ORPO)
+  *	도메인 특화 LLM 학습: 7B, 13B Full-Tuning, Partial Tuning(LoRA), RLHF(DPO, ORPO)
   *	LLM 평가: 정확도 평가(NLU, NER, NLG, RAG tasks), 속도 평가(TPS, Latency)
 
 ### 4. 한국어 금융 LLM 개발	(8 개월, 2023.03 ~ 2023.10)  
@@ -48,12 +48,12 @@
 “데이터 구축 파이프라인 및 데모 개발을 기획하여 솔루션의 개발 관리”
 - Tools : Selenium, Huggingface
   *	데이터 크롤링 : 신용카드, 예금/적금, FAQ 데이터 구축 및 버전 관리
-  *	Retriever & Reader 모델링: bge, CLIP Embedding, Table QA, VQA
+  *	Retriever & Reader 모델링: bge, CLIP Embedding, Table QA, VQA 모델 개발
 
 ### 6. 우리은행 MyData AI 모델링 및 서비스 배포	(8 개월, 2022. 04 ~ 2022. 11)
-“세 종류의 AI 서비스의 관리, DB 데이터 정제, ML 모델링 및 서비스 배포 담당”
+“세 가지 AI 서비스 관리, DB 데이터 정제, ML 모델링 및 서비스 배포 담당”
 - Tools : OracleDB, Spark, Sklearn
-  *	AI Service: 72개 DB를 바탕으로 Feature Engineering, ML 모델링, SQL 실시간 서비스 배포
+  *	AI Service: 72개 금융 DB를 바탕으로 Feature Engineering, ML 모델링, SQL 실시간 서비스 배포 서비스 개발
   *	고객사 의사소통: 서비스 요건 구체화, 결함 관리, 근거자료 준비
 
 <h2 id="skills"> 🛠️ 기술 스택 </h2>
@@ -68,7 +68,7 @@
 <h2 id="history">🏃‍♀️ History</h2>
 
 ```
-- 2025.03~Now     • Genon (구 MNC) • Web/Computer Use Agent R&D • LangGraph·Electron 기반 솔루션 개발
+- 2025.03~Now     • GenON (구 MNC) • Web/Computer Use Agent R&D • LangGraph·Electron 기반 솔루션 개발
 - 2024.06~2025.01 • MNC • General LLM & VLM Pipeline 구축 • 데이터·학습·평가 파이프라인 개발
 - 2023.07~2024.06 • MNC • 우리은행 AI Banker 챗봇 • 데이터 관리·LLM 학습(RLHF 포함)·평가 총괄
 - 2023.03~2023.06 • MNC • 한국어 금융 LLM 개발 • 7B LLM 경진대회 1위·데이터 구축, DPO·LoRA 튜닝
